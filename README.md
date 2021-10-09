@@ -3,7 +3,7 @@
 Nice to meet you. 
 
 I am an autodidact full-stack developer / AWS certified cloud practitioner based in Berlin, specialized in using JavaScript, TypeScript, React.js, and Node.js.
-I am currently looking for a Junior or Internship position in web development. Please feel free to contact me.
+I am currently looking for a Junior / Internship position in web development. Please feel free to contact me.
 
 #### My skills:
 Javascript, TypeScript, React.js, Node.js, Jest, SQL, AWS, jQuery, RestAPI, Redux, MongoDB, CSS/HTML5

@@ -3,7 +3,9 @@
 Nice to meet you. 
 
 I am an autodidact full-stack developer based in Berlin.
+
 I am currently looking for a junior / mid-level position in web development. Unfortunately, most of my current works are in my company github account(private repositories), so you might not see them here. 
+
 Please feel free to contact me.
 
 #### My skills:

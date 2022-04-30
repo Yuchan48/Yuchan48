@@ -2,11 +2,16 @@
 
 Nice to meet you. 
 
-I am an autodidact full-stack developer / AWS certified cloud practitioner based in Berlin, specialized in using JavaScript, TypeScript, React.js, and Node.js.
-I am currently looking for a Junior / Internship position in web development. Please feel free to contact me.
+I am an autodidact full-stack developer based in Berlin.
+I am currently looking for a junior / mid-level position in web development. Unfortunately, most of my current works are in my company github account(private repositories), so you might not see them here. 
+Please feel free to contact me.
 
 #### My skills:
-Javascript, TypeScript, React.js, Node.js, Jest, SQL, AWS, jQuery, RestAPI, Redux, MongoDB, CSS/HTML5
+Javascript, TypeScript, Python, React.js, Nextjs, Node.js, Flask, Jest, AWS, RestAPI, Redux, MongoDB
+
+#### work experience
+- 10.2021- Apworks GmbH, Software engineer
+- 04.2021 freelance software developer
 
 #### certificate
 
@@ -17,12 +22,11 @@ Javascript, TypeScript, React.js, Node.js, Jest, SQL, AWS, jQuery, RestAPI, Redu
 
 About me:
 
-- 🔭 I am specialized in JS frameworks, and also learning Python.
+- 🔭 My main skills are JS frameworks, task automation with Python.
 - 👯 I am open to learn new technologies.
-- 🌱 I’m currently studying for computer science degree program in the University of the People.
 - 📫 How to reach me: yuchan.iizuka@gmail.com
-- 😄 My hobbies: crypto, baking, circus training, programming 
-- ⚡ My profession offline: I am a circus acrobat/dancer, worked and toured all over the world. 
+- 😄 My hobbies: crypto, circus training, programming 
+- ⚡ My profession offline: I work as a circus acrobat/dancer, worked and toured all over the world. 
 
 
 

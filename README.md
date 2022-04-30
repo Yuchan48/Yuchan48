@@ -13,7 +13,7 @@ Javascript, TypeScript, Python, React.js, Nextjs, Node.js, Flask, Jest, AWS, Res
 
 #### work experience
 - 10.2021- Apworks GmbH, Software engineer
-- 04.2021 freelance software developer
+- 04.2021- freelance software developer
 
 #### certificate
 

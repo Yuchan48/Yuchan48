@@ -22,13 +22,5 @@ Javascript, TypeScript, Python, React.js, Nextjs, Node.js, Flask, Jest, AWS, Res
 - FreeCodeCamp: Full-stack development
 
 
-About me:
-
-- 🔭 My main skills are JS frameworks, task automation with Python.
-- 👯 I am open to learn new technologies.
-- 📫 How to reach me: yuchan.iizuka@gmail.com
-- 😄 My hobbies: crypto, circus training, programming 
-- ⚡ My profession offline: I work as a circus acrobat/dancer, worked and toured all over the world. 
-
 
 

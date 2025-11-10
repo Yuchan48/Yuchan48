@@ -15,7 +15,7 @@ I am a full-stack developer/circus artist based in Berlin. With a versatile care
 - Using Scrum methodology in several international project teams
 - Server and database configuration
 
-#### work experience
+#### Work experience
 - 10.2021- Apworks GmbH - Software engineer
 - 03.2025-09.2025 Printemps - Web developer & IT Consultant 
 

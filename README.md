@@ -1,51 +1,55 @@
-### Hi there 👋
-Nice to meet you 😊
-I am a full-stack developer/circus artist based in Berlin. With a versatile career in both the Artistic and IT fields, I'm a very creative and open-minded person with a deep dedication to my work.
+# Hi there 👋
 
-#### Tech skills: 
-- JavaScript, TypeScript, Python, Kotlin, SQL
-- React, Node.js, Flask, React Native, Android 
-- AWS, Git
+I'm **Yuchan Iizuka**, a full-stack developer based in Berlin, passionate about building scalable and efficient web and mobile applications. With experience designing, implementing, and deploying applications across the full stack, I enjoy combining creativity, technical rigor, and problem-solving to deliver solutions that make a real impact. I’m continuously learning new technologies, optimizing workflows, and exploring ways to improve development efficiency — including leveraging AI tools to write code smarter and reduce development time.
 
-#### Experiences:
-- Design, implementation, and deployment of UI for multiple web applications
-- Task automation using a Python script
-- Optimization of Jira configuration
-- Working closely with customers to ensure requirements are fully captured and implemented
-- Using Scrum methodology in several international project teams
-- Server and database configuration
+---
 
-#### Work experience
-- 10.2021- Apworks GmbH - Software engineer
-- 03.2025-09.2025 Printemps - Web developer & IT Consultant 
+## 💻 Tech Skills
 
-#### Education
-- Bachelor’s Degree in Computer Science
-University of the People 
-Sep.2021 - Oct.2025
+- **Languages:** JavaScript, TypeScript, Python, Kotlin, SQL  
+- **Frameworks / Libraries:** React, Node.js, Flask, React Native, Android  
+- **Cloud & Tools:** AWS, Git, Docker  
 
-#### Certificate
-- AWS certified cloud practitioner - 07.2021
-Amazon Web Service (AWS)
+---
 
-- FreeCodeCamp: Full-stack development
+## 🛠 Professional Experience
 
-#### My hobby
-- Circus training 
-- Study (anything interesting)
-- Cooking 
-- Crypto trading 
-- Any activity that will improve my skills and knowledge
+- **10.2021 – 06.2023 | Apworks GmbH** – Software Engineer  
+  Designed, implemented, and deployed UI for multiple web applications; automated workflows using Python scripts; optimized Jira configurations; collaborated closely with customers to ensure requirements were captured and delivered; participated in Scrum-based international project teams; server and database configuration.
 
-I am currently seeking a junior to mid-level software developer position. I would love to continue my artist work as well, so an ideal would be a part-time position or short-term project. I would love to work on a project that makes our lives easier, and both the team and end-users happy 😉
-Please feel free to contact me.
+- **03.2025 | Printemps** – Web Developer & IT Consultant  
 
-Also, if you have an interest in my circus work, please visit my Instagram account. 
-https://www.instagram.com/yuchaniizuka
+---
 
-Yuchan Iizuka
-yuchan.iizuka@gmail.com
+## 🎓 Education
 
+- **Bachelor’s Degree in Computer Science** – University of the People (Sep.2021 – Oct.2025)  
 
+---
 
+## 📜 Certifications
 
+- **AWS Certified Cloud Practitioner** – Amazon Web Services, 07.2021  
+- **Full-Stack Development** – FreeCodeCamp  
+
+---
+
+## 🌱 Currently Learning & Interested In
+
+- **Modern full-stack patterns & architectures** (React, Node.js, serverless, microservices)  
+- **Cloud and DevOps practices** — deployment, CI/CD, AWS services  
+- **AI-assisted development** — using AI tools to code more efficiently and reduce development time  
+- **Real-time applications and WebSocket APIs**  
+- **Security-focused projects** — VPNs, secure authentication, and encryption techniques  
+- Continuously exploring new technologies, frameworks, and tools that enhance productivity and code quality  
+
+---
+
+## 📬 Connect with Me
+
+- **Email:** yuchan.iizuka@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/yuchan-iizuka/](https://www.linkedin.com/in/yuchan-iizuka/)  
+
+---
+
+I am open to **full-stack development opportunities** in Berlin, Geneva, or remote. I enjoy collaborating with teams to create solutions that are both efficient and impactful, while continuously improving my skills and staying up-to-date with modern development practices.  

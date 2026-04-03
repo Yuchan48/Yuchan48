@@ -3,7 +3,7 @@
 I’m a fullstack developer based in Berlin, Germany, passionate about building **secure, scalable, and production-ready web applications**.  
 I combine fullstack development, system-level engineering, networking, and cybersecurity to deliver real-world solutions.  
 
-I’m seeking **Junior to Mid-level Fullstack roles**, remote or in **Berlin / Switzerland (Geneva preferred)**, and I’m open to relocation for the right opportunity.  
+I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin / Switzerland (Geneva preferred)**, and I’m open to relocation for the right opportunity.  
 
 ---
 

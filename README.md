@@ -35,7 +35,7 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
   - Created **[WireGuard VPN Management Dashboard](https://wg-management-dashboard.duckdns.org/)**: web-based dashboard for creating and managing WireGuard clients with secure authentication and real-time status monitoring  
   - Developed portfolio projects demonstrating end-to-end development, deployment, and secure system design
     
-- **Web Developer & IT Consultant – Printems (Japan) | Mar–Aug 2025**  
+- **Web Developer & IT Consultant – Printemps Shoji Co., Ltd (Japan) | Mar–Aug 2025**  
   - Led end-to-end design, development, deployment, and ongoing management of company website  
   - Advised on technical infrastructure, cloud solutions, and cost-efficient hosting aligned with business growth  
   - Developed pricing strategy recommendations and guided digital presence optimization  

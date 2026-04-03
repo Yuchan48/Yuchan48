@@ -1,55 +1,65 @@
-# Hi there 👋
+# Hi, I’m Yuchan 👋
 
-I'm **Yuchan Iizuka**, a full-stack developer based in Berlin, passionate about building scalable and efficient web and mobile applications. With experience designing, implementing, and deploying applications across the full stack, I enjoy combining creativity, technical rigor, and problem-solving to deliver solutions that make a real impact. I’m continuously learning new technologies, optimizing workflows, and exploring ways to improve development efficiency — including leveraging AI tools to write code smarter and reduce development time.
+I’m a fullstack developer based in Berlin, Germany, passionate about building **secure, scalable, and production-ready web applications**. I combine fullstack development, system-level engineering, networking, and cybersecurity to deliver real-world solutions.  
 
----
-
-## 💻 Tech Skills
-
-- **Languages:** JavaScript, TypeScript, Python, Kotlin, SQL  
-- **Frameworks / Libraries:** React, Node.js, Flask, React Native, Android  
-- **Cloud & Tools:** AWS, Git, Docker  
+I’m seeking **Junior to Mid-level Fullstack roles**, remote or in **Berlin / Switzerland (Geneva preferred)**, and I’m open to relocation for the right opportunity.  
 
 ---
 
-## 🛠 Professional Experience
-
-- **10.2021 – 06.2023 | Apworks GmbH** – Software Engineer  
-  Designed, implemented, and deployed UI for multiple web applications; automated workflows using Python scripts; optimized Jira configurations; collaborated closely with customers to ensure requirements were captured and delivered; participated in Scrum-based international project teams; server and database configuration.
-
-- **03.2025 | Printemps** – Web Developer & IT Consultant  
-
----
-
-## 🎓 Education
-
-- **Bachelor’s Degree in Computer Science** – University of the People (Sep.2021 – Oct.2025)  
+## 🔹 Technical Skills
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Python, REST APIs, Socket.IO  
+- **Databases:** SQLite, PostgreSQL  
+- **DevOps & System:** Linux, Nginx, PM2, iptables, networking, VPNs, WireGuard, server deployment  
+- **Security:** Authentication, JWT, HTTP-only cookies, secure system architecture  
+- **Cloud:** AWS Cloud Practitioner (expired 2024)  
+- **Other:** Agile/Scrum, project planning, debugging, automation  
 
 ---
 
-## 📜 Certifications
+## 🔹 Experience Highlights
+- **Fullstack Developer – Freelance / Personal Projects | May 2022–Present**  
+  - Built and deployed fullstack web applications with security, networking, and system-level considerations  
+  - Created **[WireGuard VPN Management Dashboard](https://wg-management-dashboard.duckdns.org/)**: web-based dashboard for creating and managing WireGuard clients with secure authentication and real-time status monitoring  
+  - Developed portfolio projects demonstrating end-to-end development, deployment, and secure system design
+    
+- **Web Developer & IT Consultant – Printems (Japan) | Mar–Aug 2025**  
+  - Led end-to-end design, development, deployment, and ongoing management of company website  
+  - Advised on technical infrastructure, cloud solutions, and cost-efficient hosting aligned with business growth  
+  - Developed pricing strategy recommendations and guided digital presence optimization  
 
-- **AWS Certified Cloud Practitioner** – Amazon Web Services, 07.2021  
-- **Full-Stack Development** – FreeCodeCamp  
+- **Software Engineer – APWORKS GmbH (Germany) | Oct 2021–May 2022**  
+  - Developed scalable UI components, Python automation tools, and optimized Jira workflows  
+  - Acted as technical liaison with clients, working in international Scrum teams  
+  - Managed server setup, database configurations, and production system security  
 
----
+  
 
-## 🌱 Currently Learning & Interested In
-
-- **Modern full-stack patterns & architectures** (React, Node.js, serverless, microservices)  
-- **Cloud and DevOps practices** — deployment, CI/CD, AWS services  
-- **AI-assisted development** — using AI tools to code more efficiently and reduce development time  
-- **Real-time applications and WebSocket APIs**  
-- **Security-focused projects** — VPNs, secure authentication, and encryption techniques  
-- Continuously exploring new technologies, frameworks, and tools that enhance productivity and code quality  
-
----
-
-## 📬 Connect with Me
-
-- **Email:** yuchan.iizuka@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/yuchan-iizuka/](https://www.linkedin.com/in/yuchan-iizuka/)  
+- **Former Professional Dancer & Freelance Circus Artist | Since 2012**  
+  - Developed creativity, discipline, resilience, and teamwork skills, bringing versatility to problem-solving and collaboration  
 
 ---
 
-I am open to **full-stack development opportunities** in Berlin, Geneva, or remote. I enjoy collaborating with teams to create solutions that are both efficient and impactful, while continuously improving my skills and staying up-to-date with modern development practices.  
+## 🔹 Education & Certification
+- **BSc in Computer Science** – University of the People (CGPA 3.88, Sep 2021–Oct 2025)  
+- **AWS Certified Cloud Practitioner** – Jul 2021 (expired Jul 2024)  
+
+---
+
+## 🔹 Portfolio Projects
+- **WireGuard VPN Management Platform** – Fullstack & Systems Project  
+  - Secure, web-based dashboard for admin and demo users to create/manage WireGuard clients  
+  - Features: REST APIs, real-time status updates, secure authentication, production-ready Linux deployment  
+  - [Live Demo](https://wg-management-dashboard.duckdns.org/)  
+  - GitHub repository: [Check the code](https://github.com/Yuchan48/vpn_management_dashboard)  
+
+- **Audio-to-Text Generator App** – Fullstack project for recording, storing, and transcribing audio using DeepGram API  
+  - Features: dynamic DOM updates, audio playback, deletion functionality, frontend-backend integration
+  - GitHub repository: [Check the code](https://github.com/Yuchan48/audio_to_text_generator_JS)
+
+---
+
+## 🔹 Contact Me
+- 📧 Email: yuchan.iizuka@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/yuchan-iizuka/](https://www.linkedin.com/in/yuchan-iizuka/)  
+

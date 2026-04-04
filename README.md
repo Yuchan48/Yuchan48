@@ -31,9 +31,8 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
 
 ## 🔹 Experience Highlights
 - **Fullstack Developer – Freelance / Personal Projects | May 2022–Present**  
-  - Built and deployed fullstack web applications with security, networking, and system-level considerations  
-  - Created **[WireGuard VPN Management Dashboard](https://wg-management-dashboard.duckdns.org/)**: web-based dashboard for creating and managing WireGuard clients with secure authentication and real-time status monitoring  
-  - Developed portfolio projects demonstrating end-to-end development, deployment, and secure system design
+  - Delivered full-stack web applications with security, networking, and Linux system-level considerations, including deployment with Nginx, PM2, and firewall/NAT configuration 
+  - Built portfolio projects demonstrating end-to-end development, deployment, and secure system design, including dashboards, real-time updates, and role-based access control
     
 - **Web Developer & IT Consultant – Printemps Shoji Co., Ltd (Japan) | Mar–Aug 2025**  
   - Led end-to-end design, development, deployment, and ongoing management of company website  
@@ -58,9 +57,9 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
 ---
 
 ## 🔹 Portfolio Projects
-- **WireGuard VPN Management Platform** – Fullstack & Systems Project  
-  - Secure, web-based dashboard for admin and demo users to create/manage WireGuard clients  
-  - Features: REST APIs, real-time status updates, secure authentication, production-ready Linux deployment  
+- **WireGuard VPN Management Platform** – Self-Hosted Fullstack & Systems Project
+  - Web-based dashboard enabling admin and demo users to create/manage WireGuard clients with secure authentication and real-time status monitoring via Socket.IO 
+  - Production-ready Linux deployment with VPN setup, NAT/firewall configuration, and client key management  
   - [Live Demo](https://wg-management-dashboard.duckdns.org/)  
   - GitHub repository: [Check the code](https://github.com/Yuchan48/vpn_management_dashboard)  
 

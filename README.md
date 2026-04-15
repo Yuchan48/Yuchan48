@@ -8,31 +8,33 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
 ---
 
 ## 🔹 Technical Skills
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![WireGuard](https://img.shields.io/badge/-WireGuard-4A9EEB?logo=wireguard&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B8A3E?logo=pm2&logoColor=white)
 
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Python, REST APIs, WebSockets (Socket.IO)  
-- **Databases:** SQLite, PostgreSQL  
-- **DevOps & System:** Linux, Nginx, PM2, iptables, networking, VPNs, WireGuard, server deployment  
-- **Security:** Authentication, JWT, HTTP-only cookies, secure system architecture  
-- **Cloud:** AWS Cloud Practitioner (expired 2024)  
-- **Other:** Agile/Scrum, project planning, debugging, automation  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![WebSocket](https://img.shields.io/badge/-WebSockets-010101?logo=socket.io&logoColor=white)
+
+- **Frontend:** React, Vite, TailwindCSS, JavaScript  
+- **Backend:** FastAPI, REST APIs, WebSockets, Background Tasks  
+- **Database:** PostgreSQL, SQLAlchemy, Alembic  
+- **DevOps & Deployment:** Linux, Docker, Nginx, VPS deployment, SSL (Let's Encrypt)  
+- **Security:** JWT auth, HTTP-only cookies, role-based access control  
+- **External APIs:** DeepGram Speech-to-Text API  
 
 ---
 
 ## 🔹 Experience Highlights
-- **Fullstack Developer – Freelance / Personal Projects | May 2022–Present**  
-  - Delivered full-stack web applications with security, networking, and Linux system-level considerations, including deployment with Nginx, PM2, and firewall/NAT configuration 
-  - Built portfolio projects demonstrating end-to-end development, deployment, and secure system design, including dashboards, real-time updates, and role-based access control
+
+- **Fullstack Developer – Personal Projects | 2022–Present**
+  - Built multiple production-style full-stack applications with authentication, role-based access control, and real-time features
+  - Designed and deployed backend systems using FastAPI/Node.js with PostgreSQL and Docker
+  - Implemented real-time communication systems using WebSockets and event-driven architecture
+  - Managed full deployment lifecycle including Linux server setup, Nginx reverse proxy, and SSL configuration
+  - Focused on building scalable, production-ready SaaS-style applications with clean architecture and modular design
     
 - **Web Developer & IT Consultant – Printemps Shoji Co., Ltd (Japan) | Mar–Aug 2025**  
   - Led end-to-end design, development, deployment, and ongoing management of company website  
@@ -63,9 +65,11 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
   - [Live Demo](https://wg-management-dashboard.duckdns.org/)  
   - GitHub repository: [Check the code](https://github.com/Yuchan48/vpn_management_dashboard)  
 
-- **Audio-to-Text Generator App** – Fullstack project for recording, storing, and transcribing audio using DeepGram API  
-  - Features: dynamic DOM updates, audio playback, deletion functionality, frontend-backend integration
-  - GitHub repository: [Check the code](https://github.com/Yuchan48/audio_to_text_generator_JS)
+- **Audio Transcriber Platform – Full-Stack SaaS (FastAPI, React, WebSockets)**
+  - Full-stack audio transcription system with JWT auth, role-based access (user/admin), file upload limits, and real-time transcription updates via WebSockets  
+  - Production deployment on VPS with Docker, Nginx reverse proxy, SSL (Let’s Encrypt), and DeepGram API integration for speech-to-text processing  
+  - [Live Demo](https://audio-transcriber.duckdns.org)  
+  - GitHub repository: [Check the code](https://github.com/Yuchan48/audio-transcriber-platform)  
 
 ---
 

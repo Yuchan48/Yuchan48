@@ -21,7 +21,7 @@ I’m seeking opportunities in **Fullstack Development**, remote or in **Berlin 
 - **Frontend:** React, Vite, TailwindCSS, JavaScript  
 - **Backend:** FastAPI, REST APIs, WebSockets, Background Tasks  
 - **Database:** PostgreSQL, SQLAlchemy, Alembic  
-- **DevOps & Deployment:** Linux, Docker, Nginx, VPS deployment, SSL (Let's Encrypt)  
+- **DevOps & Deployment:** Linux, Docker, Nginx, VPS deployment, SSL (Let's Encrypt), CI/CD (GitHub Actions)
 - **Security:** JWT auth, HTTP-only cookies, role-based access control  
 - **External APIs:** DeepGram Speech-to-Text API  
 

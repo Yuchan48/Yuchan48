@@ -18,12 +18,12 @@ Fullstack Engineer based in Berlin, focused on building secure, scalable, and pr
 
 ## 🚀 Projects
 
-### 🔐 WireGuard VPN Management Platform
+### 🔐 Self-Hosted WireGuard VPN Management System
 Full-stack VPN management system for secure client provisioning and monitoring with real-time updates.
 
 - Role-based access control (RBAC) + JWT authentication  
 - Real-time monitoring via WebSockets (Socket.IO)  
-- Dockerized deployment on Linux VPS  
+- Linux VPS deployment
 - Nginx reverse proxy + process management  
 
 🔗 Live: https://wg-management-dashboard.duckdns.org  

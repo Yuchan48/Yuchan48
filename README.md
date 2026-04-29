@@ -6,7 +6,7 @@ Fullstack Engineer based in Berlin, focused on building secure, scalable, and pr
 
 ## 🧠 Core Skills
 
-**Frontend:** React  
+**Frontend:** React, TypeScript  
 **Backend:** FastAPI, Node.js  
 **APIs:** REST, WebSockets  
 **Auth & Security:** JWT, RBAC, secure sessions  

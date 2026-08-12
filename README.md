@@ -2,7 +2,7 @@
 
 Full-Stack Developer based in Berlin, focused on building and deploying reliable web applications across frontend, backend, databases, and infrastructure.
 
-With a background in both software engineering and international performance, I bring a disciplined, adaptable approach to solving technical problems and working with teams.
+I enjoy solving practical technical problems, learning new technologies, and working across the full development lifecycle from implementation to deployment.
 
 ## 🧠 What I Bring
 
